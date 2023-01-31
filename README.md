@@ -8,4 +8,4 @@ You just need to put your OPEN AI api key, (you ll know where i have added a com
 
 i have attached all the versions of the packages im using in a different file. 
 
-I hope you like it
+I hope you find it resourceful 
