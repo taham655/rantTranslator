@@ -2,7 +2,7 @@
 
 Using streamlit to connect the api with the webpage 
 
-you can install streamlit using the pip install and start working using this
+you can install streamlit using the pip install and start using it
 
 You just need to put your OPEN AI api key, (you ll know where i have added a comment in the code)
 
